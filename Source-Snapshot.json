@@ -1,0 +1,507 @@
+{
+  "name": "Trader Ships – Steampunk Airships",
+  "packageId": "briana.traderships.steampunk",
+  "repository": "rimworld-trader-ships-steampunk-airships",
+  "license": "MIT",
+  "sourceUnit": "Trader Ships - Steampunk Airships/Mod",
+  "productionSource": "Trader Ships - Steampunk Airships/Port17/Source/Source",
+  "sourceFilesUnmodified": true,
+  "recordedUtc": "2026-10-28T21:32:43.946Z",
+  "files": [
+    {
+      "path": "Defs/SteampunkAirships.xml",
+      "bytes": 2918,
+      "sha256": "444F66A3932993C01060977EE88BA88F5413589EBEEC99F43E3495CD7C85D7DB",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Defs/SteampunkAirships.xml"
+    },
+    {
+      "path": "Languages/English/Keyed/TraderShips.xml",
+      "bytes": 3039,
+      "sha256": "4BE9F7DC5DD40D72FEB3F04111717FFE56452D6C37F5E84E1537E43B6BF635A1",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Languages/English/Keyed/TraderShips.xml"
+    },
+    {
+      "path": "Languages/Spanish (Español(Castellano))/Keyed/TraderShips.xml",
+      "bytes": 2368,
+      "sha256": "F758101334E72957F4655F0B0A6273D2F29EA6DE33E45AB9601F62A323B0CF22",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Languages/Spanish (Español(Castellano))/Keyed/TraderShips.xml"
+    },
+    {
+      "path": "Patches/SteampunkAirships.xml",
+      "bytes": 375,
+      "sha256": "D47CA3D6A6E5237B0269C777B92D607A8C0BFF03172CCE4E87491918E63E6CCD",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Patches/SteampunkAirships.xml"
+    },
+    {
+      "path": "1.7/Defs/Buildings.xml",
+      "bytes": 2197,
+      "sha256": "4CC7A59AC1503F853DF5945CA0709338F575DDDF08E39085CF3463E6F68936AF",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Defs/Buildings.xml"
+    },
+    {
+      "path": "1.7/Defs/ExpandedFleets.xml",
+      "bytes": 2311,
+      "sha256": "70251563D9515B21C48F7197853D246BFF24117FCE9A25E72F0746BA0DEEAB52",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Defs/ExpandedFleets.xml"
+    },
+    {
+      "path": "1.7/Defs/FactionFleets.xml",
+      "bytes": 806,
+      "sha256": "30E281C716ED334257281541A5A5B1446DC670133B693F32D57677A2BF9E7F73",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Defs/FactionFleets.xml"
+    },
+    {
+      "path": "1.7/Defs/Incidents.xml",
+      "bytes": 749,
+      "sha256": "2A13C1AF49CAF236D2BC569A95B482FBDA7B0C989947E4E4AF0185531D8A8573",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Defs/Incidents.xml"
+    },
+    {
+      "path": "1.7/Defs/Jobs.xml",
+      "bytes": 249,
+      "sha256": "1D4D6B585E29762A2E0B63D98B28B12F48D107326939082982C4C29EE7C8ECA1",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Defs/Jobs.xml"
+    },
+    {
+      "path": "1.7/Defs/PawnKinds.xml",
+      "bytes": 951,
+      "sha256": "D484E800E0E8D65022FED518C5CCB167F0AD0E24E8ACD5A90D58ECD7363BA21C",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Defs/PawnKinds.xml"
+    },
+    {
+      "path": "1.7/Defs/QuestTradeRequest.xml",
+      "bytes": 5227,
+      "sha256": "F429C1F3E49C937FF4A75A95026D4239DC3452F2F9149D02CD0FF5E594C64F0D",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Defs/QuestTradeRequest.xml"
+    },
+    {
+      "path": "1.7/Defs/Shipgen.xml",
+      "bytes": 2041,
+      "sha256": "F5FEB95F54F4279BEE938762244B4738E287BE6DC07A62E369B2A87B8A6D16EE",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Defs/Shipgen.xml"
+    },
+    {
+      "path": "1.7/Defs/ShipParts.xml",
+      "bytes": 11803,
+      "sha256": "712BEB47608C7AA3AD7FCF81D027087253B22F6DCBFBF3E850F4F8560AE3587D",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Defs/ShipParts.xml"
+    },
+    {
+      "path": "1.7/Defs/Skyfaller.xml",
+      "bytes": 3946,
+      "sha256": "4D000B471187146B837D740F9D2A1273780AF29F67ED7235B9AEA9E953EE0FAB",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Defs/Skyfaller.xml"
+    },
+    {
+      "path": "1.7/Defs/Sounds.xml",
+      "bytes": 2419,
+      "sha256": "9CE01C76125503C5AB4265389DCA21987D0650C4C213E9B45374E1323FF7BA70",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Defs/Sounds.xml"
+    },
+    {
+      "path": "1.7/Defs/TraderShips.xml",
+      "bytes": 2895,
+      "sha256": "B65304A0A5C507C30B316625C1C59B5B1E9A3AB7465EA0AB5A72C4B6AE02D327",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Defs/TraderShips.xml"
+    },
+    {
+      "path": "1.7/Patches/Designations.xml",
+      "bytes": 345,
+      "sha256": "9A86CDE1F87C3C368C580742377D95A873776AD879B80A6598C305D2A578A717",
+      "origin": "Trader Ships - Steampunk Airships/Mod/1.7/Patches/Designations.xml"
+    },
+    {
+      "path": "About/About.xml",
+      "bytes": 2159,
+      "sha256": "57FC2EA03402BB0D70D53A2DAC8E9486810CA145F35A83649A48B79FDFB384B3",
+      "origin": "Trader Ships - Steampunk Airships/Mod/About/About.xml"
+    },
+    {
+      "path": "LoadFolders.xml",
+      "bytes": 106,
+      "sha256": "49EB8FD7B77C84DC774421EE1508AA797F026073B7A11B3CFB78704B2E6D6B6D",
+      "origin": "Trader Ships - Steampunk Airships/Mod/LoadFolders.xml"
+    },
+    {
+      "path": "Source/Area/Area_LandingZone.cs",
+      "bytes": 3909,
+      "sha256": "03137E749FDF552AC3238770AAEC4C30DDC48147E44DB3A64314163859CB1B60",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/Area/Area_LandingZone.cs"
+    },
+    {
+      "path": "Source/Area/Designator_AreaLandingZone.cs",
+      "bytes": 1782,
+      "sha256": "0813A7024C8F8079A6626E0912D13B8B765106705B396AF9DD936561FAE02C9F",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/Area/Designator_AreaLandingZone.cs"
+    },
+    {
+      "path": "Source/Area/Designator_AreaLandingZoneClear.cs",
+      "bytes": 806,
+      "sha256": "7CDB12B1EE0D9F62A76FA55E99649AD45510FBE466C66112DBD11761B2462102",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/Area/Designator_AreaLandingZoneClear.cs"
+    },
+    {
+      "path": "Source/Area/Designator_AreaLandingZoneExpand.cs",
+      "bytes": 800,
+      "sha256": "BBFE550CCCA226F2AFB6A48D81E5EC9B056959AFF0E35E988BA5B9BDD0F8EA5E",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/Area/Designator_AreaLandingZoneExpand.cs"
+    },
+    {
+      "path": "Source/AssemblyInfo.cs",
+      "bytes": 905,
+      "sha256": "BE925070B7827D043F5DE2B6862C4025900A92413C7AD09E37E898CA9FAA547B",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/AssemblyInfo.cs"
+    },
+    {
+      "path": "Source/CompPropertiesShip.cs",
+      "bytes": 931,
+      "sha256": "D27BDADD84CE121C9699EB124338AC73CDF361B83519C011BF90B531DE3516E5",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/CompPropertiesShip.cs"
+    },
+    {
+      "path": "Source/CompShip.cs",
+      "bytes": 12802,
+      "sha256": "F21E516128EDB64FF06CB84B9D29085B167C7FD9E1837B418CCDFCF7619638F8",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/CompShip.cs"
+    },
+    {
+      "path": "Source/Debug.cs",
+      "bytes": 2207,
+      "sha256": "D9D7E53A7CE956D88A47C97CA531F1DBB00EA7ED90F6D32C1D9CC9F2992DC07E",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/Debug.cs"
+    },
+    {
+      "path": "Source/Globals.cs",
+      "bytes": 463,
+      "sha256": "6F5F31197DDDBFA686BA346E92AD817254819BCEB58EAED9F82C71A964DA9440",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/Globals.cs"
+    },
+    {
+      "path": "Source/IncidentWorkerTraderShip.cs",
+      "bytes": 7519,
+      "sha256": "E0DC756F14180BC485BE66EF99058F3556AF4C2FAA7B13A09D7523C2A7FD5028",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/IncidentWorkerTraderShip.cs"
+    },
+    {
+      "path": "Source/IncidentWorkerTraderShipCrash.cs",
+      "bytes": 1048,
+      "sha256": "00DB7723C771E0CC92D2A6506E1533AE5E76DED9721F4A75497D8F9D489A046C",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/IncidentWorkerTraderShipCrash.cs"
+    },
+    {
+      "path": "Source/JobDriverTradeWithShip.cs",
+      "bytes": 1349,
+      "sha256": "B4910F6A6D8E9FD353EB7990B7BC872070F7AA331712170092DC7733C8C2419C",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/JobDriverTradeWithShip.cs"
+    },
+    {
+      "path": "Source/LandedShip.cs",
+      "bytes": 3305,
+      "sha256": "0DB56295648F096EC2F29481EB059A3858B5D3A32C640380E1F27EC46F10D497",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/LandedShip.cs"
+    },
+    {
+      "path": "Source/packages.config",
+      "bytes": 139,
+      "sha256": "DE27A918E0F9F6D713F823DCF26A2D9CF8C002C43F69CAE535C12232AA344EA1",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/packages.config"
+    },
+    {
+      "path": "Source/Patch/PatchIncidentWorker_OrbitalTraderArrival.cs",
+      "bytes": 1237,
+      "sha256": "70DAA29A4633E1B7D25ACC91EBD4B57E3FC04D48E6586DBC77C8A4F4D88EA9EF",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/Patch/PatchIncidentWorker_OrbitalTraderArrival.cs"
+    },
+    {
+      "path": "Source/Quest/QuestNode_CreateTraderShip.cs",
+      "bytes": 972,
+      "sha256": "5FDEF550F843770A01171CA27FEB74D12100CED1697F438BE3E5211BC272B147",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/Quest/QuestNode_CreateTraderShip.cs"
+    },
+    {
+      "path": "Source/Quest/QuestNode_ShipsTradeRequest_Initiate.cs",
+      "bytes": 1384,
+      "sha256": "BDC0064F48C4FE61ABAD511005CEBEAF8EC76BA8D2FDA8846E380973D6176179",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/Quest/QuestNode_ShipsTradeRequest_Initiate.cs"
+    },
+    {
+      "path": "Source/Quest/QuestPart_InitiateShipsTradeRequest.cs",
+      "bytes": 3774,
+      "sha256": "F9A5662B413EB5F80B9FD72B46500EC96E0F75F1F5F4D9A4F78ACFA82F5273F3",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/Quest/QuestPart_InitiateShipsTradeRequest.cs"
+    },
+    {
+      "path": "Source/ShipgenDef.cs",
+      "bytes": 874,
+      "sha256": "DDDF5C4D52B73E02F6CFF417F1EC70F855060E23833F6C424051B811C7C98640",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/ShipgenDef.cs"
+    },
+    {
+      "path": "Source/ShipgenState.cs",
+      "bytes": 284,
+      "sha256": "11550BB4BBA5D3736DAC0429B31027FE33CD9AAE489F8AFF59C39B427A40A2EF",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/ShipgenState.cs"
+    },
+    {
+      "path": "Source/ShipgenStep.cs",
+      "bytes": 163,
+      "sha256": "E0B0B291FF23081AA4DD581A2AA18CD5DB57ACC2FC4A36DE9C421821CE115192",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/ShipgenStep.cs"
+    },
+    {
+      "path": "Source/ShipSprite.cs",
+      "bytes": 3670,
+      "sha256": "76F3792C23C16E6F6F4B288DFB413D50B1156A255C9AA2E347855C579353BAF3",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/ShipSprite.cs"
+    },
+    {
+      "path": "Source/ShipSpritePart.cs",
+      "bytes": 766,
+      "sha256": "510D5663A1BF5A9BE6EB2E9D28E1780159388FDB74EDDDBAFE7008859621FE94",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/ShipSpritePart.cs"
+    },
+    {
+      "path": "Source/ShipSpritePartDef.cs",
+      "bytes": 299,
+      "sha256": "D1EAEE2A439FB1BDEF03E95887CA06F0B28B370380EE80D0F482BEAEBA8CFF8F",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/ShipSpritePartDef.cs"
+    },
+    {
+      "path": "Source/SkyfallerTradeShip.cs",
+      "bytes": 2543,
+      "sha256": "A581402159FE2863FB89477C3218809CD5AFDBFD55B5C36FE4D1C10D98C645A6",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/SkyfallerTradeShip.cs"
+    },
+    {
+      "path": "Source/StepAddPart.cs",
+      "bytes": 884,
+      "sha256": "868AA0DD450353A07E68541C8C278392B3AE7B4F213B2A326D41EB2474972A07",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/StepAddPart.cs"
+    },
+    {
+      "path": "Source/StepShipgen.cs",
+      "bytes": 1023,
+      "sha256": "802429DDC74D2102C5CE473420238CF7640D3F77E16E79AF3495D19C261B0506",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/StepShipgen.cs"
+    },
+    {
+      "path": "Source/TraderShips.cs",
+      "bytes": 852,
+      "sha256": "A90C3BE18D34E2087D92C790F1DC9E942DEB737B91059D5D908E2484B0DA7D6D",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/TraderShips.cs"
+    },
+    {
+      "path": "Source/TraderShips.csproj",
+      "bytes": 17598,
+      "sha256": "294FDEB6A2557B24F59C6AC4682A3F8BC87E75490DC4783B0A16672AA3A99526",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/TraderShips.csproj"
+    },
+    {
+      "path": "Source/TraderShipsSettings.cs",
+      "bytes": 4062,
+      "sha256": "110F5F7776741C6E5932149BC7DC77BDAA53267DC54D54CE58D1EA9BF559EDC7",
+      "origin": "Trader Ships - Steampunk Airships/Port17/Source/Source/TraderShipsSettings.cs"
+    },
+    {
+      "path": "Legacy/Source/Area/Area_LandingZone.cs",
+      "bytes": 3909,
+      "sha256": "03137E749FDF552AC3238770AAEC4C30DDC48147E44DB3A64314163859CB1B60",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/Area/Area_LandingZone.cs"
+    },
+    {
+      "path": "Legacy/Source/Area/Designator_AreaLandingZone.cs",
+      "bytes": 1782,
+      "sha256": "0813A7024C8F8079A6626E0912D13B8B765106705B396AF9DD936561FAE02C9F",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/Area/Designator_AreaLandingZone.cs"
+    },
+    {
+      "path": "Legacy/Source/Area/Designator_AreaLandingZoneClear.cs",
+      "bytes": 806,
+      "sha256": "7CDB12B1EE0D9F62A76FA55E99649AD45510FBE466C66112DBD11761B2462102",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/Area/Designator_AreaLandingZoneClear.cs"
+    },
+    {
+      "path": "Legacy/Source/Area/Designator_AreaLandingZoneExpand.cs",
+      "bytes": 800,
+      "sha256": "BBFE550CCCA226F2AFB6A48D81E5EC9B056959AFF0E35E988BA5B9BDD0F8EA5E",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/Area/Designator_AreaLandingZoneExpand.cs"
+    },
+    {
+      "path": "Legacy/Source/AssemblyInfo.cs",
+      "bytes": 905,
+      "sha256": "BE925070B7827D043F5DE2B6862C4025900A92413C7AD09E37E898CA9FAA547B",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/AssemblyInfo.cs"
+    },
+    {
+      "path": "Legacy/Source/CompPropertiesShip.cs",
+      "bytes": 711,
+      "sha256": "AF4FDB2A425AF5905C3565B41D849D650236B545A3FD4D66E8378DBE01662021",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/CompPropertiesShip.cs"
+    },
+    {
+      "path": "Legacy/Source/CompShip.cs",
+      "bytes": 11148,
+      "sha256": "5AB3AB261EEA3C04FA295EC5712085F8CF9137C431062FBA2ECB1A731981BEF2",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/CompShip.cs"
+    },
+    {
+      "path": "Legacy/Source/Debug.cs",
+      "bytes": 2207,
+      "sha256": "D9D7E53A7CE956D88A47C97CA531F1DBB00EA7ED90F6D32C1D9CC9F2992DC07E",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/Debug.cs"
+    },
+    {
+      "path": "Legacy/Source/Globals.cs",
+      "bytes": 463,
+      "sha256": "6F5F31197DDDBFA686BA346E92AD817254819BCEB58EAED9F82C71A964DA9440",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/Globals.cs"
+    },
+    {
+      "path": "Legacy/Source/IncidentWorkerTraderShip.cs",
+      "bytes": 5813,
+      "sha256": "25CA67BF52B928A11376766C0ECB18C66959507FDBE19FB4385198609EC7B749",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/IncidentWorkerTraderShip.cs"
+    },
+    {
+      "path": "Legacy/Source/IncidentWorkerTraderShipCrash.cs",
+      "bytes": 1048,
+      "sha256": "00DB7723C771E0CC92D2A6506E1533AE5E76DED9721F4A75497D8F9D489A046C",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/IncidentWorkerTraderShipCrash.cs"
+    },
+    {
+      "path": "Legacy/Source/JobDriverTradeWithShip.cs",
+      "bytes": 1349,
+      "sha256": "B4910F6A6D8E9FD353EB7990B7BC872070F7AA331712170092DC7733C8C2419C",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/JobDriverTradeWithShip.cs"
+    },
+    {
+      "path": "Legacy/Source/LandedShip.cs",
+      "bytes": 2923,
+      "sha256": "ABF85E9C9D7CA96127D51E2F72881A48A7333705F9EB85309CAFE5A4B65935D8",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/LandedShip.cs"
+    },
+    {
+      "path": "Legacy/Source/packages.config",
+      "bytes": 139,
+      "sha256": "DE27A918E0F9F6D713F823DCF26A2D9CF8C002C43F69CAE535C12232AA344EA1",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/packages.config"
+    },
+    {
+      "path": "Legacy/Source/Patch/PatchIncidentWorker_OrbitalTraderArrival.cs",
+      "bytes": 1237,
+      "sha256": "70DAA29A4633E1B7D25ACC91EBD4B57E3FC04D48E6586DBC77C8A4F4D88EA9EF",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/Patch/PatchIncidentWorker_OrbitalTraderArrival.cs"
+    },
+    {
+      "path": "Legacy/Source/Quest/QuestNode_CreateTraderShip.cs",
+      "bytes": 972,
+      "sha256": "5FDEF550F843770A01171CA27FEB74D12100CED1697F438BE3E5211BC272B147",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/Quest/QuestNode_CreateTraderShip.cs"
+    },
+    {
+      "path": "Legacy/Source/Quest/QuestNode_ShipsTradeRequest_Initiate.cs",
+      "bytes": 1384,
+      "sha256": "BDC0064F48C4FE61ABAD511005CEBEAF8EC76BA8D2FDA8846E380973D6176179",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/Quest/QuestNode_ShipsTradeRequest_Initiate.cs"
+    },
+    {
+      "path": "Legacy/Source/Quest/QuestPart_InitiateShipsTradeRequest.cs",
+      "bytes": 3774,
+      "sha256": "F9A5662B413EB5F80B9FD72B46500EC96E0F75F1F5F4D9A4F78ACFA82F5273F3",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/Quest/QuestPart_InitiateShipsTradeRequest.cs"
+    },
+    {
+      "path": "Legacy/Source/ShipgenDef.cs",
+      "bytes": 874,
+      "sha256": "DDDF5C4D52B73E02F6CFF417F1EC70F855060E23833F6C424051B811C7C98640",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/ShipgenDef.cs"
+    },
+    {
+      "path": "Legacy/Source/ShipgenState.cs",
+      "bytes": 284,
+      "sha256": "11550BB4BBA5D3736DAC0429B31027FE33CD9AAE489F8AFF59C39B427A40A2EF",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/ShipgenState.cs"
+    },
+    {
+      "path": "Legacy/Source/ShipgenStep.cs",
+      "bytes": 163,
+      "sha256": "E0B0B291FF23081AA4DD581A2AA18CD5DB57ACC2FC4A36DE9C421821CE115192",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/ShipgenStep.cs"
+    },
+    {
+      "path": "Legacy/Source/ShipSprite.cs",
+      "bytes": 3670,
+      "sha256": "76F3792C23C16E6F6F4B288DFB413D50B1156A255C9AA2E347855C579353BAF3",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/ShipSprite.cs"
+    },
+    {
+      "path": "Legacy/Source/ShipSpritePart.cs",
+      "bytes": 766,
+      "sha256": "510D5663A1BF5A9BE6EB2E9D28E1780159388FDB74EDDDBAFE7008859621FE94",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/ShipSpritePart.cs"
+    },
+    {
+      "path": "Legacy/Source/ShipSpritePartDef.cs",
+      "bytes": 299,
+      "sha256": "D1EAEE2A439FB1BDEF03E95887CA06F0B28B370380EE80D0F482BEAEBA8CFF8F",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/ShipSpritePartDef.cs"
+    },
+    {
+      "path": "Legacy/Source/SkyfallerTradeShip.cs",
+      "bytes": 2543,
+      "sha256": "A581402159FE2863FB89477C3218809CD5AFDBFD55B5C36FE4D1C10D98C645A6",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/SkyfallerTradeShip.cs"
+    },
+    {
+      "path": "Legacy/Source/StepAddPart.cs",
+      "bytes": 884,
+      "sha256": "868AA0DD450353A07E68541C8C278392B3AE7B4F213B2A326D41EB2474972A07",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/StepAddPart.cs"
+    },
+    {
+      "path": "Legacy/Source/StepShipgen.cs",
+      "bytes": 1023,
+      "sha256": "802429DDC74D2102C5CE473420238CF7640D3F77E16E79AF3495D19C261B0506",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/StepShipgen.cs"
+    },
+    {
+      "path": "Legacy/Source/TraderShips.cs",
+      "bytes": 852,
+      "sha256": "A90C3BE18D34E2087D92C790F1DC9E942DEB737B91059D5D908E2484B0DA7D6D",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/TraderShips.cs"
+    },
+    {
+      "path": "Legacy/Source/TraderShips.csproj",
+      "bytes": 17598,
+      "sha256": "294FDEB6A2557B24F59C6AC4682A3F8BC87E75490DC4783B0A16672AA3A99526",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/TraderShips.csproj"
+    },
+    {
+      "path": "Legacy/Source/TraderShipsSettings.cs",
+      "bytes": 4062,
+      "sha256": "110F5F7776741C6E5932149BC7DC77BDAA53267DC54D54CE58D1EA9BF559EDC7",
+      "origin": "Trader Ships - Steampunk Airships/Mod/Source/TraderShipsSettings.cs"
+    },
+    {
+      "path": "About/PublishedFileId.txt",
+      "bytes": 10,
+      "sha256": "E175293E8283302F707EAEB834F1782A4E85688ECDA40CC7B0E15D685D283FFF",
+      "origin": "installed metadata"
+    }
+  ],
+  "installedBinaryFingerprints": [
+    {
+      "path": "1.7/Assemblies/TraderShips.dll",
+      "sha256": "1531DCC1B4A806C98C0705D9651386DEE0DC13873526A8B4580A3FD337544345"
+    }
+  ],
+  "build17": {
+    "status": "COMPILED",
+    "sourceFiles": 28,
+    "gameVersion": "1.7.4990 rev1069",
+    "productSHA256": "92D2CC738E060C241B68F3297C632EAD8AFB41D692441D3C986F86A6965DCA55",
+    "diagnosticCount": 0
+  },
+  "nativePlaytest": "NOT_RUN_THIS_PASS",
+  "artworkOmitted": true
+}

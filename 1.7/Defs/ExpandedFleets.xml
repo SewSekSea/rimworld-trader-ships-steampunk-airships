@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraderShips.ShipSpritePartDef ParentName="ShipSpritePart">
+    <defName>TraderBalloon01</defName>
+    <category>TraderBalloon</category>
+    <graphicData>
+      <texPath>TraderShips/Fleets/balloon_01</texPath>
+      <drawSize>(360,360)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+  </TraderShips.ShipSpritePartDef>
+  <TraderShips.ShipSpritePartDef ParentName="ShipSpritePart">
+    <defName>TraderHelicopter01</defName>
+    <category>TraderHelicopter</category>
+    <graphicData>
+      <texPath>TraderShips/Fleets/helicopter_01</texPath>
+      <drawSize>(330,330)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+  </TraderShips.ShipSpritePartDef>
+  <TraderShips.ShipSpritePartDef ParentName="ShipSpritePart">
+    <defName>TraderSaucer01</defName>
+    <category>TraderSaucer</category>
+    <graphicData>
+      <texPath>TraderShips/Fleets/saucer_01</texPath>
+      <drawSize>(440,440)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+  </TraderShips.ShipSpritePartDef>
+  <TraderShips.ShipSpritePartDef ParentName="ShipSpritePart">
+    <defName>TraderInsectoid01</defName>
+    <category>TraderInsectoid</category>
+    <graphicData>
+      <texPath>TraderShips/Fleets/insectoid_01</texPath>
+      <drawSize>(400,400)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+  </TraderShips.ShipSpritePartDef>
+  <TraderShips.ShipgenDef>
+    <defName>BalloonTrader</defName>
+    <steps><li Class="TraderShips.StepAddPart"><category>TraderBalloon</category><offset>(0,-32)</offset></li></steps>
+  </TraderShips.ShipgenDef>
+  <TraderShips.ShipgenDef>
+    <defName>HelicopterTrader</defName>
+    <steps><li Class="TraderShips.StepAddPart"><category>TraderHelicopter</category><offset>(0,18)</offset></li></steps>
+  </TraderShips.ShipgenDef>
+  <TraderShips.ShipgenDef>
+    <defName>SaucerTrader</defName>
+    <steps><li Class="TraderShips.StepAddPart"><category>TraderSaucer</category><offset>(0,41)</offset></li></steps>
+  </TraderShips.ShipgenDef>
+  <TraderShips.ShipgenDef>
+    <defName>InsectoidTrader</defName>
+    <steps><li Class="TraderShips.StepAddPart"><category>TraderInsectoid</category><offset>(0,48)</offset></li></steps>
+  </TraderShips.ShipgenDef>
+</Defs>

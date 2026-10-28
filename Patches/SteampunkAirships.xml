@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/TraderShips.ShipgenDef[defName="trader"]/steps</xpath>
+    <value>
+      <steps>
+        <li Class="TraderShips.StepAddPart">
+          <category>SteampunkAirship</category>
+          <layer>0</layer>
+        </li>
+      </steps>
+    </value>
+  </Operation>
+</Patch>

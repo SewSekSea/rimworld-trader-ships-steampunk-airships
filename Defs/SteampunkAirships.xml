@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraderShips.ShipSpritePartDef ParentName="ShipSpritePart">
+    <defName>SteampunkAirship01</defName>
+    <category>SteampunkAirship</category>
+    <graphicData>
+      <texPath>TraderShips/Steampunk/airship_01</texPath>
+      <drawSize>(390,390)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+  </TraderShips.ShipSpritePartDef>
+  <TraderShips.ShipSpritePartDef ParentName="ShipSpritePart">
+    <defName>SteampunkAirship02</defName>
+    <category>SteampunkAirship</category>
+    <graphicData>
+      <texPath>TraderShips/Steampunk/airship_02</texPath>
+      <drawSize>(390,390)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+  </TraderShips.ShipSpritePartDef>
+  <TraderShips.ShipSpritePartDef ParentName="ShipSpritePart">
+    <defName>SteampunkAirship03</defName>
+    <category>SteampunkAirship</category>
+    <graphicData>
+      <texPath>TraderShips/Steampunk/airship_03</texPath>
+      <drawSize>(390,390)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+  </TraderShips.ShipSpritePartDef>
+  <TraderShips.ShipSpritePartDef ParentName="ShipSpritePart">
+    <defName>SteampunkAirship04</defName>
+    <category>SteampunkAirship</category>
+    <graphicData>
+      <texPath>TraderShips/Steampunk/airship_04</texPath>
+      <drawSize>(390,390)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+  </TraderShips.ShipSpritePartDef>
+  <TraderShips.ShipSpritePartDef ParentName="ShipSpritePart">
+    <defName>SteampunkAirship05</defName>
+    <category>SteampunkAirship</category>
+    <graphicData>
+      <texPath>TraderShips/Steampunk/airship_05</texPath>
+      <drawSize>(390,390)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+  </TraderShips.ShipSpritePartDef>
+  <TraderShips.ShipSpritePartDef ParentName="ShipSpritePart">
+    <defName>SteampunkAirship06</defName>
+    <category>SteampunkAirship</category>
+    <graphicData>
+      <texPath>TraderShips/Steampunk/airship_06</texPath>
+      <drawSize>(390,390)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+  </TraderShips.ShipSpritePartDef>
+  <TraderShips.ShipSpritePartDef ParentName="ShipSpritePart">
+    <defName>SteampunkAirship07</defName>
+    <category>SteampunkAirship</category>
+    <graphicData>
+      <texPath>TraderShips/Steampunk/airship_07</texPath>
+      <drawSize>(390,390)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+  </TraderShips.ShipSpritePartDef>
+  <TraderShips.ShipSpritePartDef ParentName="ShipSpritePart">
+    <defName>SteampunkAirship08</defName>
+    <category>SteampunkAirship</category>
+    <graphicData>
+      <texPath>TraderShips/Steampunk/airship_08</texPath>
+      <drawSize>(390,390)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+  </TraderShips.ShipSpritePartDef>
+</Defs>

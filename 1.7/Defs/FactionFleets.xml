@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraderShips.ShipgenDef>
+    <defName>HighTechTrader</defName>
+    <steps>
+      <li Class="TraderShips.StepAddPart">
+        <category>base</category>
+        <layer>0</layer>
+      </li>
+      <li Class="TraderShips.StepShipgen">
+        <shipgen>chassis</shipgen>
+        <offset>(-40,50)</offset>
+        <offsetVarianceX>-20~20</offsetVarianceX>
+        <offsetVarianceY>-20~20</offsetVarianceY>
+        <distance>25~45</distance>
+      </li>
+      <li Class="TraderShips.StepShipgen">
+        <shipgen>turbine</shipgen>
+        <offset>(-150,-30)</offset>
+        <offsetVarianceX>-20~20</offsetVarianceX>
+        <offsetVarianceY>-20~20</offsetVarianceY>
+        <distance>15~25</distance>
+      </li>
+    </steps>
+  </TraderShips.ShipgenDef>
+</Defs>
